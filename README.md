@@ -38,5 +38,5 @@
 
 ## 发布为可访问 URL
 
-当前产品保留 Sites 预览地址。公开源码仓库启用 GitHub Pages 后，优先使用 GitHub Pages 链接作为评审 URL；Pages 的发布由 `.github/workflows/pages.yml` 自动处理。页面完全静态，无构建步骤或秘密配置。
+公开评审地址：https://waitwind2001.github.io/xbuddy-invest-research/；源码仓库：https://github.com/waitwind2001/xbuddy-invest-research。GitHub Pages 的发布由 `.github/workflows/pages.yml` 自动处理。页面完全静态，无构建步骤或秘密配置。
 
